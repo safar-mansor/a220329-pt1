@@ -2,7 +2,7 @@
         <div class="p-4">
           <a href="home.php" class="navbar-brand">
             <div class="row">
-              <h5><i class="bi bi-shield-fill me-2"></i>Aquarelle Paper Hub</h5>
+              <h5><i class="bi bi-shield-fill me-2"></i>Flora Paper Hub</h5>
             </div>
           </a>
           
