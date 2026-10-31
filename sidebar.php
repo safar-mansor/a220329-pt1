@@ -1,7 +1,6 @@
 <div id="mySidebar" class="col-auto bg-dark text-white offcanvas-lg offcanvas-start">
   <div class="p-4">
-    <!-- Brand / Logo -->
-    <a href="index.php" class="navbar-brand">
+    <a href="home.php" class="navbar-brand">
       <div class="row">
         <h5><i class="bi bi-shield-fill me-2"></i>Flora Paper Hub</h5>
       </div>
@@ -9,10 +8,9 @@
     
     <hr>
     
-    <!-- Navigation Links -->
     <ul class="mynav nav nav-pills flex-column">
       <li class="nav-item mb-3 mt-2">
-        <a href="index.php" class="text-decoration-none text-white">
+        <a href="home.php" class="text-decoration-none text-white">
           <i class="bi bi-house-fill me-2"></i>Home
         </a>
       </li>
@@ -40,7 +38,6 @@
     
     <hr>
     
-    <!-- User Profile Dropdown -->
     <div class="dropdown">
       <a href="#" class="text-decoration-none text-white dropdown-toggle d-inline-block align-middle" data-bs-toggle="dropdown">
         <div class="rounded-circle bg-secondary text-center d-inline-block align-middle" style="width: 50px; height: 50px; line-height: 50px;">
@@ -55,6 +52,5 @@
         <li><a class="dropdown-item" href="#">Logout</a></li>
       </ul>
     </div>
-
   </div>
 </div>
